@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Ekaterina 👋
 
-<!--
-**Zok15/Zok15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend PHP Developer
 
-Here are some ideas to get you started:
+Bitrix24 • Laravel • REST API • Integrations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Backend developer with 7+ years of commercial experience.
+Specializing in CRM automation, business processes,
+integrations and API development.
+
+## Featured Project
+
+### PhotoLog
+
+Designed, developed and deployed a photo collection management platform using Laravel and Vue.js.
+
+🌐 https://photolog.org
+
+Backend:
+https://github.com/Zok15/photo_journal
+
+Frontend:
+https://github.com/Zok15/photo_journal_frontend
+
+## Tech Stack
+
+PHP • Laravel • Bitrix24 • MySQL • PostgreSQL • Vue.js • Docker
+
+## Contact
+
+📧 myasoezhka@gmail.com
